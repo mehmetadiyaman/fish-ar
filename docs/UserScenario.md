@@ -1,5 +1,6 @@
 # Kullanıcı Senaryosu (User Scenario)
 
+
 **Persona:** Ali (12 yaşında öğrenci) veya Ayşe (Fen Bilgisi Öğretmeni)
 **Bağlam:** Bir müzede, okulda veya evde basılı deniz canlıları kartlarını kullanarak interaktif öğrenme deneyimi yaşamak.
 
